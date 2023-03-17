@@ -17,7 +17,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <audio
-        src="https://dl.sndup.net/jnrn/homepage-music.mp3"
+        src="https://dl.sndup.net/sqrh/marsgo.mp3"
         autoPlay
         loop
         ref={audioRef}
