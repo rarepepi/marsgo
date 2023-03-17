@@ -23,7 +23,7 @@ export default function Home() {
         ref={audioRef}
       />{" "}
       <main className="flex flex-col items-center  text-center p-12  h-screen text-white bg-mars bg-cover bg-center bg-no-repeat ">
-        <div className="max-w-4xl backdrop-blur-sm">
+        <div className="max-w-4xl backdrop-blur-sm rounded-2xl">
           <h1 className="mt-6 text-6xl font-bold">
             Your First-Class Ticket to the Red Frontier!
           </h1>
