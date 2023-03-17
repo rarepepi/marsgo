@@ -22,8 +22,8 @@ export default function Home() {
         loop
         ref={audioRef}
       />{" "}
-      <main className="flex flex-col items-center text-center p-12  h-screen md:overflow-hidden text-white bg-mars bg-cover bg-center bg-no-repeat ">
-        <div className="max-w-4xl">
+      <main className="flex flex-col items-center  text-center p-12  h-screen text-white bg-mars bg-cover bg-center bg-no-repeat ">
+        <div className="max-w-4xl backdrop-blur-sm">
           <h1 className="mt-6 text-6xl font-bold">
             Your First-Class Ticket to the Red Frontier!
           </h1>
@@ -90,7 +90,7 @@ export default function Home() {
             we&apos;ll reach for the stars (and maybe even get a chuckle or two
             along the way).
           </p>
-          <h3 className="mt-4">
+          <h3 className="my-4">
             MarsGo.xyz - Because the universe needs a bit of humor.
           </h3>
         </div>
