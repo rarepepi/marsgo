@@ -29,15 +29,16 @@ export default function Home() {
           </h1>
           <h2 className="mt-8 text-4xl">Colonize Mars the EASY way! 🚀</h2>
           <p className="mt-8 text-2xl">
-            Welcome to MarsGo! We're a revolutionary parody startup dedicated to
-            building a future on Mars. We're not actually building anything, but
-            we're passionate about it. So passionate, in fact, we're almost as
-            real as those other startups that will never see the light of day.
+            Welcome to MarsGo! We&apos;re a revolutionary parody startup
+            dedicated to building a future on Mars. We&apos;re not actually
+            building anything, but we&apos;re passionate about it. So
+            passionate, in fact, we&apos;re almost as real as those other
+            startups that will never see the light of day.
           </p>
           <div className="mt-8 text-2xl">
             <h3>
               Join us in our quest to conquer the universe (at least in our
-              dreams). Here's what MarsGo.xyz has to offer:
+              dreams). Here&apos;s what MarsGo.xyz has to offer:
             </h3>
 
             <ol className="text-lg mt-4">
@@ -45,17 +46,18 @@ export default function Home() {
                 <span className="text-2xl">
                   1. Exclusive Martian Real Estate 🏠
                 </span>
-                <br /> Tired of Earth's limited space and overpriced properties?
-                Reserve your own Martian land now! With our nonexistent MarsGo
-                Real Estate platform, you can claim your piece of the Red
-                Planet. Just don't expect any paperwork. Or the land. Ever.
+                <br /> Tired of Earth&apos;s limited space and overpriced
+                properties? Reserve your own Martian land now! With our
+                nonexistent MarsGo Real Estate platform, you can claim your
+                piece of the Red Planet. Just don&apos;t expect any paperwork.
+                Or the land. Ever.
               </li>
               <li>
                 <span className="text-2xl">2. MarsGo Social Network 🌐</span>
-                <br /> Introducing MarsGo's revolutionary social network,
+                <br /> Introducing MarsGo&apos;s revolutionary social network,
                 MarsBook! Connect with fellow Earthlings dreaming of Mars. Share
                 memes, have a laugh, and discuss the best way to grow potatoes
-                on Martian soil. Just don't expect any actual science or
+                on Martian soil. Just don&apos;t expect any actual science or
                 progress.
               </li>
               <li>
@@ -63,8 +65,8 @@ export default function Home() {
                 <br /> Stay fit for your imaginary journey to Mars with our
                 MarsGo Fitness app. Get tips from our not-so-certified trainers
                 on how to survive in the Martian environment without ever
-                leaving your couch. Gravity training? We haven't figured it out,
-                but we're working on it (kind of).
+                leaving your couch. Gravity training? We haven&apos;t figured it
+                out, but we&apos;re working on it (kind of).
               </li>
               <li>
                 <span className="text-2xl">4. MarsGo Merchandise 🛍️</span>
@@ -75,18 +77,18 @@ export default function Home() {
               </li>
               <li>
                 <span className="text-2xl">5. MarsGo Jobs 🚀</span>
-                <br /> Looking for a career that's going nowhere? Join the
-                MarsGo team! We're always looking for talented individuals who
-                are passionate about not actually doing anything. It's the
-                perfect opportunity for a good laugh and honing your
+                <br /> Looking for a career that&apos;s going nowhere? Join the
+                MarsGo team! We&apos;re always looking for talented individuals
+                who are passionate about not actually doing anything. It&apos;s
+                the perfect opportunity for a good laugh and honing your
                 procrastination skills.
               </li>
             </ol>
           </div>
           <p className="mt-8 text-2xl">
             Sign up today and join our not-so-serious mission to Mars. Together,
-            we'll reach for the stars (and maybe even get a chuckle or two along
-            the way).
+            we&apos;ll reach for the stars (and maybe even get a chuckle or two
+            along the way).
           </p>
           <h3 className="mt-4">
             MarsGo.xyz - Because the universe needs a bit of humor.
