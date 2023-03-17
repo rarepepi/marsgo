@@ -1,4 +1,4 @@
-## Le T2 Template
+## Go to Mars Lander
 
 ```bash
 yarn dev
