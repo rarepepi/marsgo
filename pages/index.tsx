@@ -25,7 +25,7 @@ export default function Home() {
       <main className="flex flex-col items-center text-center p-12  h-screen overflow-hidden text-white bg-mars bg-cover bg-center bg-no-repeat">
         <div className="max-w-4xl">
           <h1 className="mt-6 text-6xl font-bold">
-            MarsGo - Your First-Class Ticket to the Red Frontier!
+            Your First-Class Ticket to the Red Frontier!
           </h1>
           <h2 className="mt-8 text-4xl">Colonize Mars the EASY way! 🚀</h2>
           <p className="mt-8 text-2xl">
